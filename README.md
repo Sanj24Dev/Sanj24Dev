@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sanjanagn24@gmail.com**
 
-- 📄 Know about my experiences [link](link)
+- 📄 Know about my experiences [link](https://sanj24dev.github.io/profile-website/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
